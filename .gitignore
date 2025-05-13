@@ -1,16 +1,26 @@
+# Visual Studio files
 .vs/
-*.user
 *.suo
-*.csproj.user
-*.vcxproj.user
-*.vcxproj.filters.user
-/bin
-/obj
+*.user
+*.sln.docstates
+*.cache
 _ReSharper*/
 
-# Temporary files
-*.cache
+# Build outputs
+bin/
+obj/
+publish/
+
+# NuGet packages
+packages/
+
+# Test results
+TestResults/
+
+# IDE-specific files (if any)
+# Example for Rider:
+.idea/
+
+# Other temporary files or folders
 *.log
 *.tmp
-*.bak
-*.swp
