@@ -1,0 +1,16 @@
+.vs/
+*.user
+*.suo
+*.csproj.user
+*.vcxproj.user
+*.vcxproj.filters.user
+/bin
+/obj
+_ReSharper*/
+
+# Temporary files
+*.cache
+*.log
+*.tmp
+*.bak
+*.swp
